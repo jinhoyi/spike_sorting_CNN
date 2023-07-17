@@ -2,7 +2,7 @@
 Code for CNN-t and CNN-s in Multi-Channel Many-Class Real-time Neural Spike Sorting with Convolutional Neural Networks
 
 xdata_64 and ydata_64 is a synthetic data from [1].
-data for CNN-s is not avaliable in public, so only the code for the model is shared. events.pickle is the dummy data file for CNN-s, which only has 10 examples per units, with zero values. 
+data for CNN-s is not avaliable in public, so only the code for the model is shared. events.pickle is the dummy data file for CNN-t, which only has 10 examples per units, with zero values. 
 
 conda_env_clean.yaml is the export of conda environment used for the codes
 
